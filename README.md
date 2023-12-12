@@ -1,5 +1,5 @@
 # test.file
 Coding journey 
-author Sudhir
+Author Sudhir
 <br>
 First edit to read me
